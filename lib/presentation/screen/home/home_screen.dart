@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:taskapp/presentation/screen/home/provider/media_provider.dart';
-import 'package:taskapp/presentation/screen/home/widget/player_controller.dart';
-import 'package:taskapp/presentation/screen/home/widget/song_list_item.dart';
-
+import 'package:xylopen/presentation/screen/home/provider/media_provider.dart';
+import 'package:xylopen/presentation/screen/home/widget/player_controller.dart';
+import 'package:xylopen/presentation/screen/home/widget/song_list_item.dart';
 import '../../../core/contains/app_colors.dart';
 import '../../../core/contains/app_strings.dart';
 

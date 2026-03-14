@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:taskapp/presentation/screen/home/home_screen.dart';
-import 'package:taskapp/presentation/screen/home/provider/media_provider.dart';
+import 'package:xylopen/presentation/screen/home/home_screen.dart';
+import 'package:xylopen/presentation/screen/home/provider/media_provider.dart';
+
 
 void main() {
   runApp(const MyApp());

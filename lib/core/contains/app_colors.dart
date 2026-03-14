@@ -1,6 +1,8 @@
 
 import 'package:flutter/material.dart';
 
+
+//This class is all colors
 class AppColors {
   AppColors._();
   static const Color primary = Colors.deepPurple;
